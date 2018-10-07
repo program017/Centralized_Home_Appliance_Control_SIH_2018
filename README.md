@@ -1,7 +1,7 @@
 # Centralized Home Appliance Control
 
 ## Description
-A wireless home appliance control and monitor system using Iot and central server(Firebase)
+A wireless home appliance control and monitor system using IOT and central server(Firebase)
 
 ## Features
 * Both Web and Android interface
