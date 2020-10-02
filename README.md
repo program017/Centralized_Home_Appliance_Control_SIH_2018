@@ -20,5 +20,6 @@ A wireless home appliance control and monitor system using IOT and central serve
 * Arduino
 * Raspberry Pi
 * Firebase
+* Cordova
 
 ## \*Detailed description about the project and demo are given in attached [presentation](https://github.com/program017/Home_Appliance_Control_SIH_2018/blob/master/Team%20Details/PPT.pdf)
